@@ -3,7 +3,7 @@
 
 Master 2 DSC 2025-2026 - Université Jean Monnet
 
-**Authors:** Mohamed MOUDJAHED, Timur BALI  
+**Author:** Mohamed MOUDJAHED
 **Supervisor:** Pierre-Louis CAYREL
 
 ## Overview
